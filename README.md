@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @dudepy
-- 👀 I’m interested in deeznutz lol
+- 👀 I’m interested in coding
 - 🌱 I’m currently learning javascript, python
-- 💞️ I’m looking to collaborate on ur dad bcz when i said "ur mom" it seems like im hetero...stfu!
-- 📫 How to reach me what the fuxck lol?
+- 📫 How to reach me: u cant.
 
 <!---
 dudepy/dudepy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
